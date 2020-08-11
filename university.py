@@ -1,4 +1,5 @@
 responses={}
+
 polling_active=True
 while polling_active:
  name=input("\nWhat is your name?")
